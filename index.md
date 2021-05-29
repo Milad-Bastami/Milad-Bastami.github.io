@@ -1,4 +1,4 @@
-<img align="Right" width="100" height="110" margin-right = '5' margin-left = '10' src="./Figures/Milad_Bastami.jpg">
+<img align="Right" width="100" height="110" margin-right = '5' margin-left = '20' src="./Figures/Milad_Bastami.jpg">
 
 ## Milad Bastami's Research Portfolio
 
