@@ -1,7 +1,17 @@
-## Welcome to GitHub Pages
+## Milad Bastami's Research Portfolio
 
-You can use the [editor on GitHub](https://github.com/Milad-Bastami/milad-bastami.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- PhD Medical Genetics (Computational Biology)
+- Experienced in applications of Computational Biology and Bioinformatics in Genomics Medicine
 
+### contact details and profiles
+
+- **email***: mi.bastami@live.com
+- [linkedin]()
+- [ResearchGate]()
+- [Publons]()
+- [Google Scholar]()
+- [Scopus]()
+- 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
