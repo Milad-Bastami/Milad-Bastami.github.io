@@ -1,4 +1,4 @@
-<img align="Right" width="100" height="110" margin-right = '5' margin-left = '20' src="./Figures/Milad_Bastami.jpg">
+<img align="Right" width="110" height="120" margin-right = '0' margin-left = '20' src="./Figures/Milad_Bastami.jpg">
 
 ## Milad Bastami's Research Portfolio
 
@@ -28,3 +28,29 @@ Throughout my career, I have been actively pursuing self-training in statistics 
 - Explore the application of machine learning in genomic medicine
 
 ### Work Experience
+
+- **Genomics Scientist** at Motahari Medical Laboratory
+  - Setting up and running genomic sequencing analysis workflows
+  - Identifying and interpreting disease variants in inherited disorders
+  - Training and mentoring staff and scientists
+
+- Postdoctoral Assistant Professor at [Tabriz University of Medical Sciences](https://www.linkedin.com/school/tabriz-university-of-medical-sciences/)
+  - Department of Medical Genetics, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran
+  - **Major duties:** conducting research, mentoring projects, giving lectures in postgraduate courses.
+  - __Research activities:__
+    - Conducting interdisciplinary research in collaboration with other departments (e.g. physics, biotechnology, molecular medicine, biochemistry) and international institutions.
+    - Directly supervising/advising: 5 MSc and 4 PhD project
+    - Providing students and staff with scientific consultations on designing and conducting experiments, retrieving and analyzing biomedical data, statistical analysis, interpreting and visualizing data, troubleshooting protocols, and molecular procedures.
+    - Actively pursuing self-learning and hands-on experience in bioinformatics, statistics (e.g. meta-analysis, machine learning), R, bash and Unix tools, and getting acquainted with Git version control system and SQL. Held workshop on using R.
+  - __Research focus:__
+    - Genomics of complex disorders: deciphering the role of regulatory genomic variants and polymorphisms using GWAS data and bioinformatics approach (non-coding RNAs, and microRNAs).
+    - Leveraging bioinformatics, integrative genomics, and statistical approaches to connect genomics to medicine and prioritize functional genomic variants conferring susceptibility to diseases.
+    - Identifying and prioritizing crucial molecular components of complex disorders that may have potential applications in genomics medicine
+    - Using available omics data to narrow down and interpret findings of genome-wide association studies in complex disorders
+  - __Other responsibilities:__
+    - Deputy Head of Department for Research
+    - A member of the Research Council for Postgraduate Studies
+    - A member of the Research Ethics Committee of Tabriz University of Medical Sciences.
+    - The scientific advisor of exceptional talent students at Tabriz University of Medical Sciences.
+
+    
