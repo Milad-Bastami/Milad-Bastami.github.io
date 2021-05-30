@@ -33,7 +33,7 @@ Throughout my career, I have been actively pursuing self-training in statistics 
   - Setting up and running genomic sequencing analysis workflows
   - Identifying and interpreting disease variants in inherited disorders
   - Training and mentoring staff and scientists
-___
+---
 - __Postdoctoral Assistant Professor__ at [Tabriz University of Medical Sciences](https://www.linkedin.com/school/tabriz-university-of-medical-sciences/)
   - Department of Medical Genetics, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran
   - **Major duties:** conducting research, mentoring projects, giving lectures in postgraduate courses.
@@ -52,7 +52,7 @@ ___
     - A member of the Research Council for Postgraduate Studies
     - A member of the Research Ethics Committee of Tabriz University of Medical Sciences.
     - The scientific advisor of exceptional talent students at Tabriz University of Medical Sciences.
-___
+---
 
 ### Projects and Publications
 
