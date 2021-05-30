@@ -52,11 +52,11 @@ Throughout my career, I have been actively pursuing self-training in statistics 
     - A member of the Research Council for Postgraduate Studies
     - A member of the Research Ethics Committee of Tabriz University of Medical Sciences.
     - The scientific advisor of exceptional talent students at Tabriz University of Medical Sciences.
----
+
+<----------
+>
 
 ### Projects and Publications
-
-
 
 <img align="left" width="300" height="200" margin-left = '5' margin-right = '10' src="./Figures/Figure1.jpg">
 
