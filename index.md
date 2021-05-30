@@ -4,7 +4,7 @@
 
 - PhD Medical Genetics (Computational Biology)
 - Experienced in applications of Computational Biology and Bioinformatics in Genomics Medicine
-- 
+
 <hr>
 
 ### Contact details and profiles
