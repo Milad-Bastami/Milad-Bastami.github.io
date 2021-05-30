@@ -62,6 +62,10 @@ Throughout my career, I have been actively pursuing self-training in statistics 
 #### Bioinformatics approaches in complex disorders
 We designed bioinformatics workflows to carry out genome-wide scans for disease-associated variants that influence noncoding RNA network in complex disorders. Specifically, we were interested in the identification, functional annotation and prioritization of genetic variations in microRNA targetome of cardiovascular diseases and cancers. We integrated data from various sources (e.g.GWAS , other association studies, expression studies, 1000 genomes project, dbSNP) and perform several bioinformatics analysis to characterize polymorphisms disrupting miRNA target sites and provided deep insights into the way each polymorphism may affect miRNA:mRNA interaction. We analyzed the effect of polymorphisms on structural ensemble of 3'-UTRs, local RNA structure, RNA accessibility, and hybrid stability.The findings helped to characterize and prioritize disease-associated variants in microRNA network of complex disorders.
 
-<img align="center" width="500" height="500" margin-left = 'auto' margin-right = 'auto' src="./Figures/Figure1.jpg">
+<img align="center" text-align = 'bottom' width="500" height="500" margin-left = 'auto' margin-right = 'auto' src="./Figures/Figure1.jpg">
 
-<img align="left" width="500" height="250" margin-right = '5' margin-left = '10' src="./Figures/Figure2.jpg">
+<img align="left" width="500" height="250" margin-right = '5' margin-left = '10' src="./Figures/Figure2.jpg" style = "text-align:bottom;">
+
+>References:
+In silico dissection of miRNA targetome polymorphisms and their role in regulating miRNA-mediated gene expression in esophageal cancer.
+**Authors:** Ziba Nariman-Saleh-Fam, **Milad Bastami**, Mohammad Hossein Somi, Naser Samadi, Mohammad Reza Abbaszadegan, Farkhondeh Behjati, Hamid Ghaedi, Javad Tavakkoly-Bazzaz & Andrea Masotti
