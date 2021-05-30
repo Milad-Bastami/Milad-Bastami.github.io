@@ -21,11 +21,14 @@ I am a genomics scientist with a great enthusiasm for the applications of Comput
 I've been intrigued by CB since early days of my PhD career, when I integrated dry lab and wet lab approaches to perform a genome-wide scan for regulatory genomic variants affecting noncoding RNA network in cardiovascular diseases and cancer. After completing the degree, I eagerly moved toward CB by pursuing an autodidactic hands-on career and realized that having experience in both experimental and computational biology provides a great perspective and capacity to effectively collaborate with scientists from broad disciplines.
 
 Throughout my career, I have been actively pursuing self-training in statistics (basic, meta-analysis, and machine learning), bioinformatics, coding and data visualization in R/Bioconductor and Python, and version control system and gained invaluable experience in retrieving, analyzing, and integrating omics data into bioinformatics workflows.
+<hr>
 ### Research Interests
 
 - Using integrative genomics to infer relationships between genome elements, biological functions and disease phenotypes
 - Disease genomics: using large-scale genomics data and association studies to characterize and validate causative gene/variants in complex disorders
 - Explore the application of machine learning in genomic medicine
+
+<hr>
 
 ### Work Experience
 
@@ -33,7 +36,6 @@ Throughout my career, I have been actively pursuing self-training in statistics 
   - Setting up and running genomic sequencing analysis workflows
   - Identifying and interpreting disease variants in inherited disorders
   - Training and mentoring staff and scientists
----
 - __Postdoctoral Assistant Professor__ at [Tabriz University of Medical Sciences](https://www.linkedin.com/school/tabriz-university-of-medical-sciences/)
   - Department of Medical Genetics, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran
   - **Major duties:** conducting research, mentoring projects, giving lectures in postgraduate courses.
@@ -60,6 +62,6 @@ Throughout my career, I have been actively pursuing self-training in statistics 
 #### Bioinformatics approaches in complex disorders
 We designed bioinformatics workflows to carry out genome-wide scans for disease-associated variants that influence noncoding RNA network in complex disorders. Specifically, we were interested in the identification, functional annotation and prioritization of genetic variations in microRNA targetome of cardiovascular diseases and cancers. We integrated data from various sources (e.g.GWAS , other association studies, expression studies, 1000 genomes project, dbSNP) and perform several bioinformatics analysis to characterize polymorphisms disrupting miRNA target sites and provided deep insights into the way each polymorphism may affect miRNA:mRNA interaction. We analyzed the effect of polymorphisms on structural ensemble of 3'-UTRs, local RNA structure, RNA accessibility, and hybrid stability.The findings helped to characterize and prioritize disease-associated variants in microRNA network of complex disorders.
 
-<img align="center" width="500" height="500" margin-left = 'auto' margin-right = 'auto' src="./Figures/Combined.jpg">
+<img align="center" width="500" height="500" margin-left = 'auto' margin-right = 'auto' src="./Figures/Figure1.jpg">
 
-<!-- <img align="left" width="300" height="200" margin-right = '5' margin-left = '10' src="./Figures/Figure3.png"> -->
+<img align="left" width="500" height="250" margin-right = '5' margin-left = '10' src="./Figures/Figure2.jpg">
