@@ -80,4 +80,11 @@ We designed bioinformatics workflows to carry out genome-wide scans for disease-
 **Authors:** Hamid Ghaedi, **Milad Bastami**, Davood Zare-Abdollahi, BehnamAlipoor, Abolfazl Movafagh, Reza Mirfakhraie, Mir Davood Omrania, Andrea Masotti
   
 [An in silico approach to identify and prioritize miRNAs target sites polymorphisms in colorectal cancer and obesity](https://doi.org/10.1002/cam4.3546)  
-**Authors:**Morteza Gholami, Marzieh Zoughi, Bagher Larijani, Mahsa M. Amoli, **Milad Bastami**
+**Authors:**Morteza Gholami, Marzieh Zoughi, Bagher Larijani, Mahsa M. Amoli, **Milad Bastami**  
+  
+#### Using systematic statistical and genetic approaches to decipher genetic predisposition to complex disorders
+
+We are interested in applying statistical methods (e.g. systematic review and meta-analysis) as well as experimental approaches (e.g. genetic assocition studies and sequencing) to draw robust conclusions about genetic contribution to complex disorders.  
+
+<img align="center" text-align = 'bottom' width="500" height="500" margin-left = 'auto' margin-right = 'auto' src="./Figures/Figure3.png">
+<img align="center" text-align = 'bottom' width="500" height="500" margin-left = 'auto' margin-right = 'auto' src="./Figures/Figure4.png">
