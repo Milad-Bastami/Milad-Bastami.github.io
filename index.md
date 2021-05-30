@@ -64,8 +64,20 @@ We designed bioinformatics workflows to carry out genome-wide scans for disease-
 
 <img align="center" text-align = 'bottom' width="500" height="500" margin-left = 'auto' margin-right = 'auto' src="./Figures/Figure1.jpg">
 
-<img align="left" width="500" height="250" margin-right = '5' margin-left = '10' src="./Figures/Figure2.jpg" style = "text-align:bottom;">
+<img align="center" width="500" height="250" margin-right = '5' margin-left = '10' src="./Figures/Figure2.jpg" style = "text-align:bottom;">
 
->References:
-In silico dissection of miRNA targetome polymorphisms and their role in regulating miRNA-mediated gene expression in esophageal cancer.
-**Authors:** Ziba Nariman-Saleh-Fam, **Milad Bastami**, Mohammad Hossein Somi, Naser Samadi, Mohammad Reza Abbaszadegan, Farkhondeh Behjati, Hamid Ghaedi, Javad Tavakkoly-Bazzaz & Andrea Masotti
+**References:**  
+[In silico dissection of miRNA targetome polymorphisms and their role in regulating miRNA-mediated gene expression in esophageal cancer.](https://doi.org/10.1007/s12013-016-0754-5)  
+**Authors:** Ziba Nariman-Saleh-Fam, **Milad Bastami**, Mohammad Hossein Somi, Naser Samadi, Mohammad Reza Abbaszadegan, Farkhondeh Behjati, Hamid Ghaedi, Javad Tavakkoly-Bazzaz & Andrea Masotti  
+  
+[The miRNA targetome of coronary artery disease is perturbed by functional polymorphisms identified and prioritized by in-depth bioinformatics analyses exploiting genome-wide association studies](https://doi.org/10.1016/j.gene.2016.08.054)  
+**Authors:** **Milad Bastami** Ziba Nariman-Saleh-Fama ZahraSaadatian LidaNariman-Saleh-Fam, Mir DavoodOmrani, Sayyed Mohammad HosseinGhaderian, Andrea Masotti  
+  
+[Single-Nucleotide Polymorphisms Within MicroRNAs Sequences and Their 3' UTR Target Sites May Regulate Gene Expression in Gastrointestinal Tract Cancers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4166088/)  
+**Authors:** Zahra Saadatian, Andrea Masotti, Ziba Nariman Saleh Fam, Behnam Alipoor, **Milad Bastami** and Hamid Ghaedi
+  
+[Bioinformatics prioritization of SNPs perturbing microRNA regulation of hematological malignancy-implicated genes]()  
+**Authors:** Hamid Ghaedi, **Milad Bastami**, Davood Zare-Abdollahi, BehnamAlipoor, Abolfazl Movafagh, Reza Mirfakhraie, Mir Davood Omrania, Andrea Masotti
+  
+[An in silico approach to identify and prioritize miRNAs target sites polymorphisms in colorectal cancer and obesity](https://doi.org/10.1002/cam4.3546)  
+**Authors:**Morteza Gholami, Marzieh Zoughi, Bagher Larijani, Mahsa M. Amoli, **Milad Bastami**
