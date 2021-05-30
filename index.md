@@ -53,10 +53,12 @@ Throughout my career, I have been actively pursuing self-training in statistics 
     - A member of the Research Ethics Committee of Tabriz University of Medical Sciences.
     - The scientific advisor of exceptional talent students at Tabriz University of Medical Sciences.
 
-<----------
->
+<hr>
 
 ### Projects and Publications
+
+#### Bioinformatics approaches in complex disorders
+We designed bioinformatics workflows to carry out genome-wide scans for disease-associated variants that influence noncoding RNA network in complex disorders. Specifically, we were interested in the identification, functional annotation and prioritization of genetic variations in microRNA targetome of cardiovascular diseases and cancers. We integrated data from various sources (e.g.GWAS , other association studies, expression studies, 1000 genomes project, dbSNP) and perform several bioinformatics analysis to characterize polymorphisms disrupting miRNA target sites and provided deep insights into the way each polymorphism may affect miRNA:mRNA interaction. We analyzed the effect of polymorphisms on structural ensemble of 3'-UTRs, local RNA structure, RNA accessibility, and hybrid stability.The findings helped to characterize and prioritize disease-associated variants in microRNA network of complex disorders.
 
 <img align="left" width="300" height="200" margin-left = '5' margin-right = '10' src="./Figures/Figure1.jpg">
 
